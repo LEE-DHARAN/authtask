@@ -15,5 +15,8 @@
     "url": "https://github.com/LEE-DHARAN/authtask/issues"
   },
   "homepage": "https://github.com/LEE-DHARAN/authtask#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
